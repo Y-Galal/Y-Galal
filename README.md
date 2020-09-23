@@ -5,8 +5,7 @@
 ## Youssef Galal
 
 I am a hardworking EECE student who is willing to learn and to increase my knowledge in embedded systems and digital electronics. 
-
-I am also a member in embedded movement control team in Cairo university's Racing Team. <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" data-canonical-src="https://i.imgur.com/y9HTLzM.png" style="max-width:100%;"> </a>
+I am also a member in embedded movement control team in Cairo university's Racing Team. 
 
 ## 📄 Resume
 
