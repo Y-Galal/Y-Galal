@@ -7,11 +7,9 @@
 I am a senior EECE student who is willing to learn and to increase my knowledge in Digital IC Design.
 
 ## 👀 About me
- • Digital Design Intern in Si-Vision.
+ • Digital Design Intern at Si-Vision.
 
- • Digital Design Intern in ONELab.
-
- • Autonomous Embedded Control Team Leader in Cairo University Eco Racing Team
+ • Digital Design Intern at ONELab.
 
 ## 📄 Resume
 
