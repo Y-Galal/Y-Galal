@@ -13,8 +13,8 @@ I am a senior EECE student who is willing to learn and to increase my knowledge 
 
 ## 📄 Resume
 
-<a href="https://bit.ly/youssef-galal-resume" type="application/pdf" rel="nofollow">
-   <img src="https://i.imgur.com/puWERvu.png" alt="Youssef Ahmed Resume" data-canonical-src="https://i.imgur.com/puWERvu.png" style="max-width:50%;">
+<a href="https://bit.ly/youssef-ahmed-resume" type="application/pdf" rel="nofollow">
+   <img src="https://i.imgur.com/6yaEfz9.png" alt="Youssef Ahmed Resume" data-canonical-src="https://i.imgur.com/6yaEfz9.png" style="max-width:50%;">
 
 </a>
 
