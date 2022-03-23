@@ -12,6 +12,7 @@ I am a senior EECE student who is willing to learn and to increase my knowledge 
  • Digital Design Intern at ONELab.
 
 ## 📄 Resume
+ ✨Click to take a look at my resume✨
 
 <a href="https://bit.ly/youssef-ahmed-resume" type="application/pdf" rel="nofollow">
    <img src="https://i.imgur.com/6yaEfz9.png" alt="Youssef Ahmed Resume" data-canonical-src="https://i.imgur.com/6yaEfz9.png" style="max-width:50%;">
